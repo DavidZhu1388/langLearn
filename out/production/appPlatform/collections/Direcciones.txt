@@ -1,0 +1,35 @@
+¿Dónde está _____? ~~~~ Where is _____? ~~~~ 10
+Sigue todo recto ~~~~ Keep going straight ~~~~ 10
+Dobla a la izquierda ~~~~ Turn left ~~~~ 10
+Dobla a la derecha ~~~~ Turn right ~~~~ 10
+Cruza la plaza ~~~~ Cross the square ~~~~ 10
+Toma la primera calle a la izquierda ~~~~ Take the first left ~~~~ 10
+Está a la izquierda ~~~~ It's on the left ~~~~ 10
+Está a la derecha ~~~~ It's on the right ~~~~ 10
+delante de ~~~~ in front of ~~~~ 10
+detrás de ~~~~ behind ~~~~ 10
+encima de ~~~~ on top of ~~~~ 10
+debajo de ~~~~ underneath ~~~~ 10
+al lado de ~~~~ next to ~~~~ 10
+cerca de ~~~~ near ~~~~ 10
+lejos de ~~~~ far away from ~~~~ 10
+dentro de ~~~~ inside ~~~~ 10
+entre ~~~~ between ~~~~ 10
+perdón ~~~~ pardon me, excuse me ~~~~ 10
+Baja la calle ~~~~ Go down the street ~~~~ 10
+Dobla (girar) a ... ~~~~ To turn ~~~~ 10
+Sigue ~~~~ Follow ~~~~ 10
+Luego ~~~~ then ~~~~ 10
+Después ~~~~ After ~~~~ 10
+Finalmente ~~~~ Finally ~~~~ 10
+¿Hay un/una ....por aqua? ~~~~ Is there a...around here? ~~~~ 10
+Ve hasta ~~~~ Go up to ~~~~ 10
+Al final de la calle ~~~~ At the end of the street ~~~~ 10
+la esquina ~~~~ the corner ~~~~ 10
+el cruce ~~~~ intersection ~~~~ 10
+la carretera ~~~~ the road ~~~~ 10
+el puente ~~~~ the bridge ~~~~ 10
+el norte ~~~~ north ~~~~ 10
+el sur ~~~~ south ~~~~ 10
+el este ~~~~ east ~~~~ 10
+el oeste ~~~~ west ~~~~ 10

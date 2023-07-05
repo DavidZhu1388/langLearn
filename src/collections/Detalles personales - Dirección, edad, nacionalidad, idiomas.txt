@@ -1,0 +1,17 @@
+¿Cómo te llamas? ~~~~ What´s your name? (informal) ~~~~ 10
+Me llamo.... ~~~~ My name is... ~~~~ 10
+¿Cómo se llama usted? ~~~~ What is your name (formal) ~~~~ 10
+¿Cuál es su nacionalidad? ~~~~ What is your nationality? ~~~~ 10
+Mi nacionalidad es + adjetivo de nacionalidad ~~~~ My nationality is + adjective of nationality ~~~~ 10
+Soy español ~~~~ I am Spanish ~~~~ 10
+¿De dónde eres? ~~~~ Where are you from? ~~~~ 10
+Soy de Madrid ~~~~ I am from Madrid ~~~~ 10
+¿Dónde vives? ~~~~ Where do you live? ~~~~ 10
+Vivo en Calle Cervantes 12, en Palo Alto ~~~~ I live in Cervantes street n.12, in Palo Alto ~~~~ 10
+¿Qué idioma hablas? ~~~~ What language do you speak? ~~~~ 10
+Hablo Español ~~~~ I speak Spanish ~~~~ 10
+¿Cuál es tu estado civil? ~~~~ What is your marital status? ~~~~ 10
+¿Estás casado/a? ~~~~ Are you married? ~~~~ 10
+Estoy casado/a ~~~~ I'm married ~~~~ 10
+Estoy divorciado/a ~~~~ I am divorced ~~~~ 10
+Soy soltero/a ~~~~ I am single ~~~~ 10

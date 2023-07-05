@@ -1,0 +1,34 @@
+(Tiene / lleva) el pelo rizado y castaño ~~~~ Curly Brown Hair ~~~~ 9
+Tiene el pelo corto y negro ~~~~ Short Black Hair ~~~~ 10
+Tiene el pelo liso y rubio ~~~~ Straight Blonde Hair ~~~~ 10
+Tiene el pelo largo y es pelirrojo ~~~~ Long Red Hair ~~~~ 11
+Tiene los ojos castaños ~~~~ Brown Eyes ~~~~ 10
+Tiene los ojos verdes ~~~~ Green Eyes ~~~~ 10
+Tiene los ojos azules ~~~~ Blue Eyes ~~~~ 10
+Tiene los ojos grises ~~~~ Grey Eyes ~~~~ 10
+Tiene los ojos negros ~~~~ Black Eyes ~~~~ 10
+es alto ~~~~ He is tall ~~~~ 10
+es alta ~~~~ She is tall ~~~~ 10
+es de estatura mediana ~~~~ Medium Height ~~~~ 10
+es bajo ~~~~ He is short ~~~~ 10
+es baja ~~~~ She is short ~~~~ 10
+es guapa ~~~~ beautiful, handsome ~~~~ 10
+es guapo ~~~~ He/she is beautiful ~~~~ 10
+es feo ~~~~ Ugly ~~~~ 10
+es fea ~~~~ She is ugly ~~~~ 10
+es atractivo ~~~~ He is attractive ~~~~ 10
+es atractiva ~~~~ She's attractive ~~~~ 10
+es calvo ~~~~ Bald ~~~~ 9
+es calva ~~~~ He/she is bald ~~~~ 10
+es gordo ~~~~ He is fat ~~~~ 10
+es gorda ~~~~ She is fat ~~~~ 10
+es delgado ~~~~ He is slim ~~~~ 11
+es delgada ~~~~ She is thin ~~~~ 11
+es fuerte ~~~~ Built ~~~~ 10
+(tiene / lleva) barba ~~~~ Beard ~~~~ 10
+(tiene / lleva) bigote ~~~~ Moustache ~~~~ 10
+lleva tatuaje ~~~~ Tatoo ~~~~ 10
+lleva gafas de sol ~~~~ Sunglasses ~~~~ 9
+lleva gafas ~~~~ she/he wears glasses ~~~~ 10
+lleva pendientes ~~~~ Earring ~~~~ 10
+lleva piercing ~~~~ she/he has got piercings ~~~~ 10

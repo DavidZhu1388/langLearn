@@ -1,0 +1,43 @@
+el carácter ~~~~ character, personality ~~~~ 10
+amable ~~~~ kind ~~~~ 10
+agresivo/a ~~~~ aggressive ~~~~ 10
+alegre ~~~~ happy ~~~~ 10
+simpático/a ~~~~ nice, friendly ~~~~ 10
+antipático/antipática ~~~~ unpleasant ~~~~ 10
+perezoso/a ~~~~ lazy ~~~~ 10
+trabajador/trabajadora ~~~~ hardworking ~~~~ 10
+serio/a ~~~~ reliable, serious ~~~~ 10
+tonto/a ~~~~ silly, foolish ~~~~ 10
+gracioso/a ~~~~ funny ~~~~ 10
+optimista ~~~~ optimistic ~~~~ 10
+pesimista ~~~~ pessimistic ~~~~ 10
+hablador/habladora ~~~~ talkative ~~~~ 10
+callado/a ~~~~ quiet ~~~~ 10
+extrovertido/a ~~~~ outgoing ~~~~ 10
+tímido/a ~~~~ shy ~~~~ 10
+fastidioso/a ~~~~ annoying ~~~~ 10
+ruidoso/a ~~~~ loud and noisy ~~~~ 10
+tranquilo/a ~~~~ calm ~~~~ 10
+responsable ~~~~ responsible ~~~~ 10
+torpe ~~~~ clumsy ~~~~ 10
+inteligente ~~~~ intelligent ~~~~ 10
+deportista ~~~~ sporty ~~~~ 10
+estúpido/a ~~~~ stupid ~~~~ 10
+honesto/a ~~~~ honest ~~~~ 10
+aburrido/a ~~~~ boring ~~~~ 10
+buena persona ~~~~ good person ~~~~ 10
+desordenado/a ~~~~ messy ~~~~ 10
+divertido/a ~~~~ fun ~~~~ 10
+ordenado/a ~~~~ neat, organized ~~~~ 10
+romántico/a ~~~~ romantic ~~~~ 10
+abierto/a ~~~~ outgoing ~~~~ 10
+aventurero/a ~~~~ adventurous ~~~~ 10
+conformista / inconformista ~~~~ conformist / nonconformist ~~~~ 10
+independiente ~~~~ independent ~~~~ 10
+interesante ~~~~ interesting ~~~~ 10
+irresponsable ~~~~ irresponsible, reckless ~~~~ 10
+reservado/a ~~~~ reserved ~~~~ 10
+sensible ~~~~ sensitive ~~~~ 10
+sociable ~~~~ sociable ~~~~ 10
+solitario/a ~~~~ lonely ~~~~ 10
+valiente ~~~~ brave ~~~~ 10

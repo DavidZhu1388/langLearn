@@ -1,0 +1,32 @@
+Eventos culturales ~~~~ cultural events ~~~~ 10
+Organizar eventos ~~~~ organize events ~~~~ 10
+Exhibición de arte ~~~~ art exhibition ~~~~ 10
+Danzas ~~~~ dances ~~~~ 10
+Obra de teatro ~~~~ theater play ~~~~ 10
+Película ~~~~ movie ~~~~ 10
+Eventos Infantiles ~~~~ events for children ~~~~ 10
+Fiestas de cumpleaños ~~~~ birthday parties ~~~~ 10
+Bautismos ~~~~ baptisms ~~~~ 10
+Conferencias ~~~~ conferences ~~~~ 10
+Eventos al aire libre ~~~~ outdoor Events ~~~~ 10
+Las ferias ~~~~ fairs ~~~~ 10
+Los conciertos ~~~~ concerts ~~~~ 10
+La boda ~~~~ wedding ceremony ~~~~ 10
+El funeral ~~~~ funeral ~~~~ 10
+El aniversario ~~~~ anniversary ~~~~ 10
+La graduación ~~~~ graduation ~~~~ 10
+Eventos deportivos ~~~~ sport Events ~~~~ 10
+El partido de + deportes ~~~~ the ...game ~~~~ 10
+¿A qué hora empieza el event? ~~~~ At what time does the event start? ~~~~ 10
+El evento empieza a las + hora ~~~~ The event begins at + time ~~~~ 10
+¿A qué hora terminal el event? ~~~~ At what time does the event finish? ~~~~ 10
+El evento termina a las + hora ~~~~ the event finishes at + time ~~~~ 10
+Música ~~~~ music ~~~~ 10
+Banda de música ~~~~ music Band ~~~~ 10
+Premios ~~~~ prizes ~~~~ 10
+Regalos ~~~~ gift ~~~~ 10
+Comida ~~~~ food ~~~~ 10
+Presentador ~~~~ presenter ~~~~ 10
+Los huéspedes ~~~~ guests ~~~~ 10
+Los invitados ~~~~ guests ~~~~ 10
+Los participantes ~~~~ participants ~~~~ 10

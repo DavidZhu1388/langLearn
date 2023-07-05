@@ -1,0 +1,7 @@
+Tiene el pelo liso y rubio ~~~~ Straight Blonde Hair ~~~~ 10
+Tiene el pelo largo y es pelirrojo ~~~~ Long Red Hair ~~~~ 30
+Tiene los ojos castaños ~~~~ Brown Eyes ~~~~ 10
+Tiene los ojos verdes ~~~~ Green Eyes ~~~~ 10
+Tiene los ojos azules ~~~~ Blue Eyes ~~~~ 10
+Tiene los ojos grises ~~~~ Grey Eyes ~~~~ 10
+Tiene los ojos negros ~~~~ Black Eyes ~~~~ 10
