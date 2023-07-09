@@ -1,4 +1,4 @@
-package wordCollections;
+package model.wordCollections;
 
 import javax.swing.*;
 import java.io.*;

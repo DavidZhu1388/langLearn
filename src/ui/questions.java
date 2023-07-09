@@ -6,7 +6,9 @@ import java.awt.* ;
 import javax.swing.border.LineBorder;
 import javax.swing.border.SoftBevelBorder;
 
-class questions extends JPanel {
+import model.trainingMode.*;
+
+public class questions extends JPanel {
     
     JLabel Q;
 
@@ -21,14 +23,16 @@ class questions extends JPanel {
     static int score = 0 ;
     
     questions (multiChoice obj, JFrame window) {
+        // EFFECTS: returns true if the correct answer was chosen,
+        //          else the option is erased and the player continues to choose
 
         while (true) {
-            Q = new JLabel(obj.question);
-            option1 = new JButton(obj.op1);
-            option2 = new JButton(obj.op2);
-            option3 = new JButton(obj.op3);
-            option4 = new JButton(obj.op4);
-            correct_answer = obj.correct_answer;
+            Q = new JLabel(obj.getQ());
+            option1 = new JButton(obj.getOp1());
+            option2 = new JButton(obj.getOp2());
+            option3 = new JButton(obj.getOp3());
+            option4 = new JButton(obj.getOp4());
+            correct_answer = obj.getCorrect_answer();
 
             JPanel pan = new JPanel();
             pan.setLayout(null);

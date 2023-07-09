@@ -1,4 +1,4 @@
-package wordCollections;
+package model.wordCollections;
 
 import javax.swing.*;
 import java.io.BufferedWriter;
@@ -6,14 +6,13 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 
-public class collectionData {
+public class collectionList {
     public static ArrayList<newCollection> collectionList;
     
-    public collectionData(){
+    public collectionList(){
         collectionList = new ArrayList<>();
     }
 
@@ -39,7 +38,7 @@ public class collectionData {
 
     public static void addCollection(String name, String frontInput, String backInput){
         try {
-            File myObj = new File("src/collections/" + name + ".txt");
+            File myObj = new File("src/model/collections/" + name + ".txt");
             if (myObj.createNewFile()) {
                 BufferedWriter myWriter = new BufferedWriter(new FileWriter(myObj));
                 myWriter.write(frontInput + " ~~~~ " + backInput + " ~~~~ " + 10);
