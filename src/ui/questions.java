@@ -16,6 +16,7 @@ class questions extends JPanel {
             option4 ;
     
     String correct_answer;
+    String newString;
 
     static boolean next = false ;
     static int score = 0 ;
