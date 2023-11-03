@@ -12,3 +12,5 @@ LangLearn offers the following key features:<br />
 4. Progress Tracking: Monitor your progress and track your improvement over time.<br />
 5. Customizable: Personalize your learning experience by selecting specific word sets or difficulty levels.<br />
 6. User-Friendly Interface: Intuitive and easy-to-navigate interface for a seamless learning experience.<br />
+
+## Demo video of the project: https://youtu.be/SzaIGz9oTNw
